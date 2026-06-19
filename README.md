@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **starlessxyz/starlessxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# welcome to home.
+------------------
+# about me:
+
+living in: 🇺🇦
+interesting about: codding
+main languages: c# & lua
+------------------
+# links:
+(bio)[https://bleak.su/starless]
+
