@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 # welcome to home.
 ------------------
 # about me:
-
 living in: 🇺🇦
 interesting about: codding
 main languages: c# & lua
-------------------
-# links:
-(bio)[https://bleak.su/starless]
 
+# links:
+[bio](https://bleak.su/starless)
