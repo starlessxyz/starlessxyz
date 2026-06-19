@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">welcome to home.</h1>
-------------------
 # about me:
 living in: ukraine 🇺🇦
 
