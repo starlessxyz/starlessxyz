@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 # welcome to home.
 ------------------
 # about me:
-living in: 🇺🇦
+living in: ukraine 🇺🇦
+
 interesting about: codding
+
 main languages: c# & lua
 
 # links:
